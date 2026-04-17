@@ -1,0 +1,10 @@
+    .menu {
+        position: sticky;
+        background-color: aqua;
+        width: 200px;
+        height: 50px;
+        border-style: solid;
+        border-radius: 33%;
+        border-color: blue;
+        top: 10px;
+    }
